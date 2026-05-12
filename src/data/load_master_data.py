@@ -18,7 +18,7 @@ def load_master_data():
         "driver_name",
         "constructor_id",
         "status",
-        "driver_nationality",
+        # "driver_nationality",
         "constructor_name",
         "constructor_nationality",
         "race_name",

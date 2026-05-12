@@ -30,7 +30,7 @@ apicella,Marco,Apicella,1965-10-07,Italian
 armi,Frank,Armi,1918-10-12,American
 arnold,Chuck,Arnold,1926-05-30,American
 arnoux,René,Arnoux,1948-07-04,French
-paul_aron,Paul,Aron,,Unknown
+paul_aron,Paul,Aron,,
 arundell,Peter,Arundell,1933-11-08,British
 ascari,Alberto,Ascari,1918-07-13,Italian
 ashdown,Peter,Ashdown,1934-10-16,British
@@ -61,7 +61,7 @@ bayol,Élie,Bayol,1914-02-28,French
 bearman,Oliver,Bearman,2005-05-08,British
 beauman,Don,Beauman,1928-07-26,British
 bechem,Günther,Bechem,1921-12-21,German
-dino_beganovic,Dino,Beganovic,,Unknown
+dino_beganovic,Dino,Beganovic,,
 behra,Jean,Behra,1921-02-16,French
 bell,Derek,Bell,1941-10-31,British
 bellof,Stefan,Bellof,1957-11-20,German
@@ -123,7 +123,7 @@ brooks,Tony,Brooks,1932-02-25,British
 walt_brown,Walt,Brown,1911-12-30,American
 alan_brown,Alan,Brown,1919-11-20,British
 brown,Warwick,Brown,1949-12-24,Australian
-luke_browning,Luke,Browning,,Unknown
+luke_browning,Luke,Browning,,
 brudes,Adolf,Brudes,1899-10-15,German
 brundle,Martin,Brundle,1959-06-01,British
 bruni,Gianmaria,Bruni,1981-05-30,Italian
@@ -186,7 +186,7 @@ courage,Piers,Courage,1942-05-27,British
 craft,Chris,Craft,1939-11-17,British
 ray_crawford,Ray,Crawford,1915-10-26,American
 crawford,Jim,Crawford,1948-02-13,British
-jak_crawford,Jak,Crawford,,Unknown
+jak_crawford,Jak,Crawford,,
 crespo,Alberto,Crespo,1920-01-16,Argentine
 creus,Antonio,Creus,1924-10-28,Spanish
 crockett,Larry,Crockett,1926-10-23,American
@@ -216,11 +216,11 @@ downing,Ken,Downing,1917-12-05,British
 drake,Bob,Drake,1919-12-14,American
 driver,Paddy,Driver,1934-05-13,South African
 drogo,Piero,Drogo,1926-08-08,Italian
-felipe_drugovich,Felipe,Drugovich,,Unknown
+felipe_drugovich,Felipe,Drugovich,,
 duke,Geoff,Duke,1923-03-29,British
 dumfries,Johnny,Dumfries,1958-04-26,British
 duncan,Len,Duncan,1911-07-25,American
-alexander_dunne,Alexander,Dunne,,Unknown
+alexander_dunne,Alexander,Dunne,,
 dusio,Piero,Dusio,1899-10-13,Italian
 deletraz,Jean-Denis,Délétraz,1963-10-01,Swiss
 eaton,George,Eaton,1945-11-12,Canadian
@@ -276,7 +276,7 @@ frentzen,Heinz-Harald,Frentzen,1967-05-18,German
 friesacher,Patrick,Friesacher,1980-09-26,Austrian
 fry,Joe,Fry,1915-10-26,British
 frere,Paul,Frère,1917-01-30,Belgian
-antonio_fuoco,Antonio,Fuoco,,Unknown
+antonio_fuoco,Antonio,Fuoco,,
 fushida,Hiroshi,Fushida,1946-03-10,Japanese
 gabbiani,Beppe,Gabbiani,1957-01-02,Italian
 gachot,Bertrand,Gachot,1962-12-23,Belgian
@@ -360,7 +360,7 @@ heyer,Hans,Heyer,1943-03-16,German
 hill,Graham,Hill,1929-02-15,British
 phil_hill,Phil,Hill,1927-04-20,American
 damon_hill,Damon,Hill,1960-09-17,British
-ryo_hirakawa,Ryo,Hirakawa,,Unknown
+ryo_hirakawa,Ryo,Hirakawa,,
 hirt,Peter,Hirt,1910-03-30,Swiss
 hobbs,David,Hobbs,1939-06-09,British
 hocking,Gary,Hocking,1937-09-30,Rhodesian
@@ -383,7 +383,7 @@ inoue,Taki,Inoue,1963-09-05,Japanese
 ireland,Innes,Ireland,1930-06-12,British
 irvine,Eddie,Irvine,1965-11-10,British
 irwin,Chris,Irwin,1942-06-27,British
-ayumu_iwasa,Ayumu,Iwasa,,Unknown
+ayumu_iwasa,Ayumu,Iwasa,,
 jabouille,Jean-Pierre,Jabouille,1942-10-01,French
 jackson,Jimmy,Jackson,1910-07-25,American
 james,Joe,James,1925-05-23,American
@@ -444,7 +444,7 @@ lavaggi,Giovanni,Lavaggi,1958-02-18,Italian
 lawrence,Chris,Lawrence,1933-07-27,British
 lawson,Liam,Lawson,2002-02-11,New Zealander
 leclerc,Charles,Leclerc,1997-10-16,Monegasque
-arthur_leclerc,Arthur,Leclerc,,Unknown
+arthur_leclerc,Arthur,Leclerc,,
 leclere,Michel,Leclère,1946-03-18,French
 lederle,Neville,Lederle,1938-09-25,South African
 lees,Geoff,Lees,1951-05-01,British
@@ -496,7 +496,7 @@ marr,Leslie,Marr,1922-08-14,British
 marsh,Tony,Marsh,1931-07-20,British
 martin,Eugène,Martin,1915-03-24,French
 martini,Pierluigi,Martini,1961-04-23,Italian
-victor_martins,Victor,Martins,,Unknown
+victor_martins,Victor,Martins,,
 mass,Jochen,Mass,1946-09-30,German
 massa,Felipe,Massa,1981-04-25,Brazilian
 may,Michael,May,1934-08-18,Swiss
@@ -563,7 +563,7 @@ nuckey,Rodney,Nuckey,1929-06-26,British
 neve,Patrick,Nève,1949-10-13,Belgian
 obrien,Robert,O'Brien,1908-04-11,American
 connor,Pat,O'Connor,1928-10-09,American
-patricio_o_ward,Patricio,O'Ward,,Unknown
+patricio_o_ward,Patricio,O'Ward,,
 ocon,Esteban,Ocon,1996-09-17,French
 oliver,Jackie,Oliver,1942-08-14,British
 ongais,Danny,Ongais,1942-05-21,American
@@ -714,7 +714,7 @@ sharp,Hap,Sharp,1928-01-01,American
 shawe_taylor,Brian,Shawe Taylor,1915-01-28,British
 shelby,Carroll,Shelby,1923-01-11,American
 shelly,Tony,Shelly,1937-02-02,New Zealander
-cian_shields,Cian,Shields,,Unknown
+cian_shields,Cian,Shields,,
 siffert,Jo,Siffert,1936-07-07,Swiss
 simon,André,Simon,1920-01-05,French
 sirotkin,Sergey,Sirotkin,1995-08-27,Russian
@@ -791,7 +791,7 @@ veith,Bob,Veith,1926-11-01,American
 vergne,Jean-Éric,Vergne,1990-04-25,French
 verstappen,Jos,Verstappen,1972-03-04,Dutch
 max_verstappen,Max,Verstappen,1997-09-30,Dutch
-frederik_vesti,Frederik,Vesti,,Unknown
+frederik_vesti,Frederik,Vesti,,
 vettel,Sebastian,Vettel,1987-07-03,German
 gilles_villeneuve,Gilles,Villeneuve,1950-01-18,Canadian
 villeneuve,Jacques,Villeneuve,1971-04-09,Canadian
