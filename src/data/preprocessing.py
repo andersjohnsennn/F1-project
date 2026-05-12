@@ -12,7 +12,7 @@ def prepare_chronological_data(
     df,
     features,
     target="podium",
-    split_season=2013,
+    split_season=2025,
     scale=False
 ):
     """
