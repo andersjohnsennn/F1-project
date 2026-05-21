@@ -6,3 +6,12 @@
 __pycache__/
 .ipynb_checkpoints/
 data/raw/
+# Ignore processed race folders only
+data/processed/* Grand Prix/
+
+# Keep root processed files
+!data/processed/*.parquet
+data/processed/*.npy
+
+data/processed/all_race_laps_tensor.npy
+data/processed/all_race_laps_tensor_clean.npy
